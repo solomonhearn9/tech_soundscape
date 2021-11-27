@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_C_COMPILER=clang -D CMAKE_CXX_COMPILER=clang++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/solomonhearn/Downloads/tech_soundscape
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug

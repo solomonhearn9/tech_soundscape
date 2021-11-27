@@ -1,0 +1,5 @@
+/Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug/CMakeFiles/String_test.dir
+/Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug/CMakeFiles/DblQueue_test.dir
+/Users/solomonhearn/Downloads/tech_soundscape/cmake-build-debug/CMakeFiles/project6.dir

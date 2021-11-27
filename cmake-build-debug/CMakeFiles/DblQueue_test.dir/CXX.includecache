@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/solomonhearn/Downloads/tech_soundscape/DblQueue.cpp
+DblQueue.h
+/Users/solomonhearn/Downloads/tech_soundscape/DblQueue.h
+string
+-
+fstream
+-
+iostream
+-
+
+/Users/solomonhearn/Downloads/tech_soundscape/DblQueue.h
+cstddef
+-
+
+/Users/solomonhearn/Downloads/tech_soundscape/DblQueueTest.cpp
+DblQueue.h
+/Users/solomonhearn/Downloads/tech_soundscape/DblQueue.h
+iostream
+-
+
